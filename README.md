@@ -9,7 +9,7 @@
 
 You can install this library with git:
 
-`git clone https://github.com/AnvilM/Discord-auth-PHP.git`
+`git clone https://github.com/AnvilM/PHP-Discord-Auth`
 
 
 ## Preset
